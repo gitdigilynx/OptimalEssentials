@@ -1,0 +1,9 @@
+[06-Feb-2023 18:34:20 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:35:23 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:35:45 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:36:03 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:36:34 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:37:10 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:37:14 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 18:37:16 Asia/Karachi] PHP Warning:  http_build_query() expects parameter 1 to be array, string given in /home/nmx1us2n4g39/public_html/optimalessentials/inc/functions.php on line 12
+[06-Feb-2023 19:06:08 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/Customers/delete/delete_customer.php on line 13

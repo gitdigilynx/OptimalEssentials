@@ -1,0 +1,218 @@
+[09-Mar-2023 13:01:54 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[09-Mar-2023 13:30:22 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[09-Mar-2023 13:30:22 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 13:30:35 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[09-Mar-2023 14:44:01 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[09-Mar-2023 15:09:22 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[09-Mar-2023 16:47:03 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 225
+[09-Mar-2023 16:47:03 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 16:47:43 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 16:47:46 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 16:47:49 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 18:06:16 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 225
+[09-Mar-2023 18:06:16 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 18:06:21 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[09-Mar-2023 18:08:41 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[10-Mar-2023 06:41:00 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 225
+[10-Mar-2023 06:41:00 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[10-Mar-2023 06:44:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[10-Mar-2023 06:44:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[10-Mar-2023 06:44:56 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[10-Mar-2023 06:48:57 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 06:50:59 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 06:51:08 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[10-Mar-2023 06:51:25 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 06:52:32 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 06:52:43 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/edit_order_hcp.php on line 31
+[10-Mar-2023 06:53:14 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/edit_order_hcp.php on line 31
+[10-Mar-2023 06:54:47 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/edit_order_hcp.php on line 31
+[10-Mar-2023 06:55:13 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[10-Mar-2023 06:55:30 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 08:09:46 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[10-Mar-2023 10:56:50 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 11:00:59 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 11:01:09 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 11:01:54 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[10-Mar-2023 11:01:54 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[10-Mar-2023 11:02:05 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[10-Mar-2023 11:11:03 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[10-Mar-2023 11:11:06 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[10-Mar-2023 11:15:52 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 11:21:42 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 11:22:04 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/edit_order_hcp.php on line 31
+[10-Mar-2023 11:22:12 Asia/Karachi] PHP Notice:  Undefined index: product_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 8
+[10-Mar-2023 11:22:12 Asia/Karachi] PHP Notice:  Undefined index: index_val in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 9
+[10-Mar-2023 11:22:12 Asia/Karachi] PHP Notice:  Undefined index: product_qty in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 11
+[10-Mar-2023 11:22:12 Asia/Karachi] PHP Notice:  Undefined index: varient_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 12
+[10-Mar-2023 11:22:12 Asia/Karachi] PHP Notice:  Undefined index: shopify_check in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 14
+[10-Mar-2023 11:22:27 Asia/Karachi] PHP Notice:  Undefined index: product_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 8
+[10-Mar-2023 11:22:27 Asia/Karachi] PHP Notice:  Undefined index: index_val in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 9
+[10-Mar-2023 11:22:27 Asia/Karachi] PHP Notice:  Undefined index: product_qty in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 11
+[10-Mar-2023 11:22:27 Asia/Karachi] PHP Notice:  Undefined index: varient_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 12
+[10-Mar-2023 11:22:27 Asia/Karachi] PHP Notice:  Undefined index: shopify_check in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 14
+[10-Mar-2023 11:22:33 Asia/Karachi] PHP Notice:  Undefined index: check_varient in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 13
+[10-Mar-2023 11:23:21 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 11:23:35 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/edit_order_hcp.php on line 31
+[10-Mar-2023 11:23:41 Asia/Karachi] PHP Notice:  Undefined index: product_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 8
+[10-Mar-2023 11:23:41 Asia/Karachi] PHP Notice:  Undefined index: index_val in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 9
+[10-Mar-2023 11:23:41 Asia/Karachi] PHP Notice:  Undefined index: product_qty in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 11
+[10-Mar-2023 11:23:41 Asia/Karachi] PHP Notice:  Undefined index: varient_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 12
+[10-Mar-2023 11:23:41 Asia/Karachi] PHP Notice:  Undefined index: shopify_check in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 14
+[10-Mar-2023 11:23:48 Asia/Karachi] PHP Notice:  Undefined index: check_varient in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_backend.php on line 13
+[10-Mar-2023 11:24:17 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[10-Mar-2023 14:48:09 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[10-Mar-2023 14:48:10 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[10-Mar-2023 15:45:52 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[10-Mar-2023 15:45:52 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[10-Mar-2023 16:51:40 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[10-Mar-2023 16:51:40 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[10-Mar-2023 16:51:50 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[11-Mar-2023 08:25:26 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[12-Mar-2023 09:20:00 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 10:14:04 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 10:31:15 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 10:31:18 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 11:25:47 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 14:10:53 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 14:10:53 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 14:11:01 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 14:11:37 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 14:14:47 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 14:14:48 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 14:15:05 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 14:15:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 14:16:32 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 14:17:46 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 14:17:47 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 14:18:03 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 14:18:15 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 14:24:57 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 14:24:57 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 14:25:08 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 14:25:20 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 15:05:16 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 15:05:16 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 15:05:23 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 15:17:55 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 15:34:31 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 15:34:36 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 17:24:22 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[13-Mar-2023 17:53:04 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 17:53:05 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 17:53:13 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 17:53:51 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 17:55:00 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 17:55:11 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[13-Mar-2023 17:56:19 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[13-Mar-2023 17:56:19 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[13-Mar-2023 17:56:26 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[13-Mar-2023 17:56:41 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 06:25:30 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 10:43:08 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 10:44:07 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 47
+[14-Mar-2023 10:44:44 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 155
+[14-Mar-2023 10:44:44 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 278
+[14-Mar-2023 10:44:45 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 10:49:47 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 10:50:02 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 10:51:03 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 47
+[14-Mar-2023 10:51:39 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 155
+[14-Mar-2023 10:51:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 278
+[14-Mar-2023 10:51:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 10:51:40 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_cart.php on line 28
+[14-Mar-2023 10:52:11 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 10:52:11 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_cart.php on line 28
+[14-Mar-2023 10:52:15 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 10:52:16 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_cart.php on line 28
+[14-Mar-2023 10:52:22 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 10:59:04 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 10:59:08 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 11:03:52 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 11:55:11 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[14-Mar-2023 15:01:58 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[14-Mar-2023 15:01:58 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 15:02:07 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 15:02:21 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 15:49:03 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 16:20:27 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[14-Mar-2023 16:20:28 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 16:20:34 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 16:20:41 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:03:30 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[14-Mar-2023 18:03:30 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 18:03:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:03:45 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:05:33 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:07:15 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[14-Mar-2023 18:07:16 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 18:07:24 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:07:39 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:09:46 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:10:04 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:38:02 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:38:10 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:38:57 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:41:32 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:41:43 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 54
+[14-Mar-2023 18:41:43 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[14-Mar-2023 18:41:53 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:42:13 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 18:46:05 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 18:46:15 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:03:17 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 19:03:31 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:04:51 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:09:35 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 19:09:49 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:10:10 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 19:10:28 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:13:20 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 19:13:35 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:16:31 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 19:16:46 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[14-Mar-2023 19:19:34 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_detail.php on line 30
+[14-Mar-2023 19:19:41 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order.php on line 34
+[15-Mar-2023 05:41:58 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 225
+[15-Mar-2023 05:41:59 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[15-Mar-2023 05:42:30 Asia/Karachi] PHP Notice:  Undefined index: State in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_address.php on line 8
+[15-Mar-2023 05:42:30 Asia/Karachi] PHP Notice:  Undefined offset: 1 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_address.php on line 11
+[15-Mar-2023 11:18:51 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 11:19:10 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 13:04:58 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 16:52:18 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 16:52:23 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 19:46:27 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 19:46:48 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 19:48:25 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[15-Mar-2023 19:48:28 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined index: State in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_address.php on line 8
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined offset: 1 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_address.php on line 11
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined variable: staff_id_check in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/order_confirmation_hcp_mail.php on line 118
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined variable: staff_id_check in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/order_confirmation_hcp_mail.php on line 121
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/order_confirmation_hcp_mail.php on line 124
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined variable: hcp_customer_id in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/order_confirmation_hcp_mail.php on line 132
+[16-Mar-2023 04:21:58 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_Customer_from_shopify_cart.php on line 225
+[16-Mar-2023 04:21:58 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_cart.php on line 86
+[16-Mar-2023 04:21:58 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/fetch_product_from_shopify_cart.php on line 28
+[16-Mar-2023 04:22:34 Asia/Karachi] PHP Notice:  Undefined index: State in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_address.php on line 8
+[16-Mar-2023 04:22:34 Asia/Karachi] PHP Notice:  Undefined offset: 1 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/customer_address.php on line 11
+[16-Mar-2023 07:01:36 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:01:44 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:01:46 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:01:46 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:17:15 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:17:15 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:29:44 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:29:48 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:29:50 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 07:29:51 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 08:12:15 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 08:12:50 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 08:12:51 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 08:12:52 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 08:12:52 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 12:33:16 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 12:33:19 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 12:33:21 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 12:33:21 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68
+[16-Mar-2023 12:33:21 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/my_order_backend.php on line 68

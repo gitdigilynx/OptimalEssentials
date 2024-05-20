@@ -1,0 +1,86 @@
+[14-Mar-2023 19:04:59 Asia/Karachi] PHP Notice:  Undefined index: staff_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 120
+[14-Mar-2023 19:04:59 Asia/Karachi] PHP Notice:  Undefined variable: product_deatil in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 190
+[14-Mar-2023 19:04:59 Asia/Karachi] PHP Notice:  Undefined index: hcp_counrty in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/invoice_mail.php on line 76
+[14-Mar-2023 19:04:59 Asia/Karachi] PHP Fatal error:  Uncaught Error: Class 'SendGrid\Mail\Mail' not found in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/smtp_server/index.php:10
+Stack trace:
+#0 /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/invoice_mail.php(104): include()
+#1 /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php(291): require_once('/home/nmx1us2n4...')
+#2 {main}
+  thrown in /home/nmx1us2n4g39/public_html/optimalessentials/send_mail/smtp_server/index.php on line 10
+[14-Mar-2023 19:06:05 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 32
+[14-Mar-2023 19:06:05 Asia/Karachi] PHP Notice:  Undefined variable: count in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 60
+[14-Mar-2023 19:06:30 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 37
+[14-Mar-2023 19:06:30 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 44
+[14-Mar-2023 19:06:31 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:06:31 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 52
+[14-Mar-2023 19:06:31 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 37
+[14-Mar-2023 19:06:31 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 44
+[14-Mar-2023 19:06:31 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:06:31 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 52
+[14-Mar-2023 19:06:32 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 37
+[14-Mar-2023 19:06:32 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 44
+[14-Mar-2023 19:06:32 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:06:32 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 52
+[14-Mar-2023 19:06:33 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 37
+[14-Mar-2023 19:06:33 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 44
+[14-Mar-2023 19:06:33 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:06:33 Asia/Karachi] PHP Notice:  Undefined variable: draft_order_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 52
+[14-Mar-2023 19:09:53 Asia/Karachi] PHP Notice:  Undefined index: staff_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 120
+[14-Mar-2023 19:09:53 Asia/Karachi] PHP Notice:  Undefined variable: product_deatil in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 190
+[14-Mar-2023 19:09:53 Asia/Karachi] PHP Warning:  include(../inc/db_connect.php): failed to open stream: No such file or directory in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:09:53 Asia/Karachi] PHP Warning:  include(): Failed opening '../inc/db_connect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:09:55 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
+[14-Mar-2023 19:10:31 Asia/Karachi] PHP Notice:  Undefined index: staff_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 120
+[14-Mar-2023 19:10:31 Asia/Karachi] PHP Notice:  Undefined variable: product_deatil in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 190
+[14-Mar-2023 19:10:31 Asia/Karachi] PHP Warning:  include(../inc/db_connect.php): failed to open stream: No such file or directory in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:10:31 Asia/Karachi] PHP Warning:  include(): Failed opening '../inc/db_connect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:10:33 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
+[14-Mar-2023 19:11:13 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 32
+[14-Mar-2023 19:11:13 Asia/Karachi] PHP Notice:  Undefined variable: count in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 60
+[14-Mar-2023 19:11:28 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:11:29 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:13:39 Asia/Karachi] PHP Notice:  Undefined index: staff_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 120
+[14-Mar-2023 19:13:39 Asia/Karachi] PHP Notice:  Undefined variable: product_deatil in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 190
+[14-Mar-2023 19:13:39 Asia/Karachi] PHP Warning:  include(../inc/db_connect.php): failed to open stream: No such file or directory in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:13:39 Asia/Karachi] PHP Warning:  include(): Failed opening '../inc/db_connect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:13:41 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
+[14-Mar-2023 19:13:52 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 32
+[14-Mar-2023 19:13:52 Asia/Karachi] PHP Notice:  Undefined variable: count in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 60
+[14-Mar-2023 19:14:04 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:16:51 Asia/Karachi] PHP Notice:  Undefined index: staff_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 120
+[14-Mar-2023 19:16:51 Asia/Karachi] PHP Notice:  Undefined variable: product_deatil in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 190
+[14-Mar-2023 19:16:51 Asia/Karachi] PHP Warning:  include(../inc/db_connect.php): failed to open stream: No such file or directory in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:16:51 Asia/Karachi] PHP Warning:  include(): Failed opening '../inc/db_connect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:16:53 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
+[14-Mar-2023 19:17:28 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 32
+[14-Mar-2023 19:17:28 Asia/Karachi] PHP Notice:  Undefined variable: count in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 60
+[14-Mar-2023 19:17:39 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[14-Mar-2023 19:19:44 Asia/Karachi] PHP Notice:  Undefined index: staff_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 120
+[14-Mar-2023 19:19:44 Asia/Karachi] PHP Notice:  Undefined variable: product_deatil in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/create_invoice.php on line 190
+[14-Mar-2023 19:19:44 Asia/Karachi] PHP Warning:  include(../inc/db_connect.php): failed to open stream: No such file or directory in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:19:44 Asia/Karachi] PHP Warning:  include(): Failed opening '../inc/db_connect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nmx1us2n4g39/public_html/optimalessentials/xero/get_set_token.php on line 3
+[14-Mar-2023 19:19:46 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
+[14-Mar-2023 19:19:53 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 32
+[14-Mar-2023 19:19:53 Asia/Karachi] PHP Notice:  Undefined variable: count in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/get_invoice_mark_as_paid.php on line 60
+[14-Mar-2023 19:20:09 Asia/Karachi] PHP Notice:  Undefined index: errors in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/update_invoices_status_xero.php on line 47
+[15-Mar-2023 05:42:30 Asia/Karachi] PHP Notice:  Undefined index: invoice_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 9
+[15-Mar-2023 05:42:30 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 37
+[15-Mar-2023 05:42:30 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
+[15-Mar-2023 15:47:12 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/order_invoice_detail.php on line 30
+[15-Mar-2023 15:47:41 Asia/Karachi] PHP Notice:  Undefined variable: output in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/order_invoice_detail.php on line 30
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined index: invoice_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 9
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined variable: hcp_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 33
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 37
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 88
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined variable: hcp_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 125
+[16-Mar-2023 04:18:14 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 129
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Undefined index: draft_order in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 207
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 207
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Undefined index: draft_order in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 222
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 222
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Undefined index: draft_order in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 223
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 223
+[16-Mar-2023 04:18:15 Asia/Karachi] PHP Notice:  Undefined variable: hcp_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 225
+[16-Mar-2023 04:22:34 Asia/Karachi] PHP Notice:  Undefined index: invoice_id in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 9
+[16-Mar-2023 04:22:34 Asia/Karachi] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 37
+[16-Mar-2023 04:22:34 Asia/Karachi] PHP Notice:  Undefined variable: array_products12 in /home/nmx1us2n4g39/public_html/optimalessentials/order_invoice/invoice_order/draft_order_and_invoice_send.php on line 107
